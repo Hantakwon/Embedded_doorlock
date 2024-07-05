@@ -7,3 +7,10 @@
 ⑥ 버튼 입력을 이용하여 도어 개폐를 수동으로 제어할 수 있도록 지원한다. <br/>
 ⑦ Buzzer 및 LED 장치는 도어 개폐 동작 및 키 입력 등에 대한 알람 동작을 수행하도록 한다. <br/>
 ⑧ Bluetooth 장치를 이용하여 스마트폰 등과 연결을 지원하도록 한다.
+
+![OLED](https://github.com/Hantakwon/Embedded_doorlock/assets/142777671/1c83cee1-4e3b-4b59-bc41-16f4ef80c622)
+![NORMAL](https://github.com/Hantakwon/Embedded_doorlock/assets/142777671/a7a3c90b-cd2a-4aa6-abee-2a0519f648cd)
+![PASSWORD](https://github.com/Hantakwon/Embedded_doorlock/assets/142777671/d9ef8b1b-ab93-487c-a3ec-582609545eb4)
+![blue1](https://github.com/Hantakwon/Embedded_doorlock/assets/142777671/2d13068d-9397-449c-af1f-2d3f363cc07d)
+![blue2](https://github.com/Hantakwon/Embedded_doorlock/assets/142777671/98307ed1-be7e-4105-ab5f-01830bf7ba04)
+![blue3](https://github.com/Hantakwon/Embedded_doorlock/assets/142777671/fb4bace9-75e7-4baf-8235-44604599e984)
